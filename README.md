@@ -34,11 +34,9 @@ This isn’t just a portfolio. It’s proof that with the right vision and AI su
 
 ## 🧠 How I Build Without Code
 
-- 🤖 **AI Assistants:** ChatGPT & Replit AI
+- 🤖 **AI
 - 🖥️ **Hosting:** Vercel (for instant deployment)
 - 🧰 **Tools Built With AI Guidance**
-- 🚫 **No manual coding** — only vision + iteration
-
 ---
 
 ## 📬 Let's Connect
