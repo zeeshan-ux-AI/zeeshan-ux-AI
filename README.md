@@ -10,7 +10,7 @@ Powered by AI. Fueled by curiosity.
 I'm Zeeshan — a Computer Science student with a creative mindset and a mission:  
 To **build real products using AI**, without a traditional programming background.
 
-I don’t come from a coding-heavy past. But with the power of **ChatGPT, Replit AI**, and a sharp learning curve, I’ve created a full suite of tools — practical, lightweight, and designed for everyday use.
+ I’ve created a full suite of tools — practical, lightweight, and designed for everyday use.
 
 This isn’t just a portfolio. It’s proof that with the right vision and AI support, **anyone can ship real software**.
 
