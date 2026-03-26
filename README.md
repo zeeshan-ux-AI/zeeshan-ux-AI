@@ -82,16 +82,10 @@
 
 ---
 
-## 🏆 GitHub Trophies (Extra Game/Achievement)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeeshan-ux-ai&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/zeeshan-ux-ai/zeeshan-ux-ai/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
