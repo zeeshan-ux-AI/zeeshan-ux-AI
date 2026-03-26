@@ -72,7 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshan-ux-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-ux-ai&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
