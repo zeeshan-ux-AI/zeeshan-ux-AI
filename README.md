@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Turning%20Code%20into%20Business%20Assets%20🚀&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://readme-premium.vercel.app/api/3d-stack?text=Developer.+Builder.+Entrepreneur.&color=00F7FF&background=0D1117&height=220" width="100%" />
 </p>
-
 ---
 
 ## 🌟 Professional Summary
