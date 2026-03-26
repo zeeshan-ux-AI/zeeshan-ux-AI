@@ -1,34 +1,41 @@
 <h1 align="center">Hi 👋, I'm Zeeshan</h1>
 
-<h3 align="center">🤖 AI Builder | 💻 Developer | 💼 Future Businessman</h3>
+<h3 align="center">🤖 AI Builder | 💻 Product Developer | 💼 Future SaaS Founder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Tools+Builder;React+Playground+Creator;DevToolboxHub+Founder;Building+Digital+Products+🚀;Turning+Ideas+Into+Business+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=AI+Tools+Builder;SaaS+Projects+Creator;DevToolboxHub+Founder;Building+Digital+Products+🚀;Turning+Ideas+Into+Income+💼" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
 ## 🌟 About Me
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9WvYfLhfX7A/giphy.gif" width="200" />
+<img align="right" src="https://media.giphy.com/media/L1R1TVr9WvYfLhfX7A/giphy.gif" width="200" />
 
-- 🎓 **CSE Student** - 🤖 **Building real tools using AI** - 💡 **Teaching AI & Automation** - 🚀 **Launching digital products** - 💼 **Focused on business & growth** ---
+- 🎓 CSE Student  
+- 🤖 Building real-world tools using AI  
+- 🚀 Launching scalable digital products  
+- 💡 Exploring SaaS & automation systems  
+- 💼 Focused on business, growth & monetization  
 
-## 🚀 Featured Projects (Animated Showcase)
+---
+
+## 🚀 Featured Projects
 
 ### 🛠️ DevToolboxHub
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="500"/>
 </p>
 
-✨ **50+ essential tools in ONE place** 🔗 [Visit DevToolboxHub](https://dev-toolbox-hub-9aej.vercel.app)  
+✨ **50+ essential developer tools in ONE platform**  
+🔗 https://dev-toolbox-hub-9aej.vercel.app  
 
-- ⚡ Fast & lightweight  
-- 🧰 All-in-one dev tools  
-- 🌐 Built for productivity  
+- ⚡ Fast, clean & responsive  
+- 🧰 All-in-one productivity toolkit  
+- 🌍 Built for developers & learners  
 
 ---
 
@@ -37,31 +44,33 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </p>
 
-✨ **Full browser IDE — Build & Export** 🔗 [Visit React Playground](https://code-playground-1x6w.vercel.app)  
+✨ **Browser-based IDE — Code, Preview & Export**  
+🔗 https://code-playground-1x6w.vercel.app  
 
-- 🧠 Code directly in browser  
-- ⚡ Live preview  
-- 📦 Export full project  
+- 🧠 Write code directly in browser  
+- ⚡ Live preview system  
+- 📦 Export full projects instantly  
 
 ---
 
-## 🛠️ More Tools (Live Ecosystem)
+## 🛠️ Tool Ecosystem
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Binary%20Converter-Live-00F7FF?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/IP%20Geo%20Pro-Live-green?style=for-the-badge&logo=google-cloud"/>
+  <img src="https://img.shields.io/badge/Binary%20Converter-Live-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IP%20Geo%20Pro-Live-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Loan%20EMI%20Toolkit-Live-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Time%20Zone%20Pro-Live-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JSON%20Pretty%20Pro-Live-red?style=for-the-badge"/>
 </p>
 
+💡 **More tools → Coming soon (Scaling to full AI ecosystem)**
+
 ---
 
-## ⚡ Tech Stack & Skills
+## ⚡ Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,tailwind,nodejs,mongodb,figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,tailwind,nodejs,mongodb,figma" />
 </p>
 
 ---
@@ -69,9 +78,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshan-ux-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-ux-ai&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshan-ux-ai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-ux-ai&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -81,14 +91,16 @@
 
 ---
 
-## 🧠 Mindset & Goals
+## 🧠 Mindset
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&width=600&lines=I+build+with+AI;I+teach+AI;I+turn+ideas+into+business+💼;Future+is+AI+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&width=650&lines=I+build+with+AI;I+ship+fast;I+turn+ideas+into+products;Future+is+AI+🚀" />
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Connect With Me
+
 <p align="center">
   <a href="mailto:zeeshan9or@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
@@ -102,5 +114,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshan-ux-ai&label=Visitors&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=zeeshan-ux-ai&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
