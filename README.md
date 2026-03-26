@@ -56,14 +56,26 @@
 ## 🛠️ Tool Ecosystem
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Binary%20Converter-Live-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IP%20Geo%20Pro-Live-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Loan%20EMI%20Toolkit-Live-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time%20Zone%20Pro-Live-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON%20Pretty%20Pro-Live-red?style=for-the-badge"/>
-</p>
+  <a href="https://binary-converter-brown.vercel.app">
+    <img src="https://img.shields.io/badge/Binary%20Converter-Live-00F7FF?style=for-the-badge"/>
+  </a>
 
-💡 **More tools → Coming soon (Scaling to full AI ecosystem)**
+  <a href="https://ip-geo-pro-amber.vercel.app">
+    <img src="https://img.shields.io/badge/IP%20Geo%20Pro-Live-green?style=for-the-badge"/>
+  </a>
+
+  <a href="https://loan-emi-toolkit-chi.vercel.app">
+    <img src="https://img.shields.io/badge/Loan%20EMI%20Toolkit-Live-orange?style=for-the-badge"/>
+  </a>
+
+  <a href="https://time-zone-pro-kappa.vercel.app">
+    <img src="https://img.shields.io/badge/Time%20Zone%20Pro-Live-purple?style=for-the-badge"/>
+  </a>
+
+  <a href="https://json-pretty-pro-lemon.vercel.app">
+    <img src="https://img.shields.io/badge/JSON%20Pretty%20Pro-Live-red?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
