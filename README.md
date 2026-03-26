@@ -2,6 +2,8 @@
 
 <h3 align="center">🤖 AI Builder | 💻 Product Developer | 💼 Future SaaS Founder</h3>
 
+---
+## About me🌟
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=AI+Tools+Builder;SaaS+Projects+Creator;DevToolboxHub+Founder;Building+Digital+Products+🚀;Turning+Ideas+Into+Income+💼" />
 </p>
@@ -11,26 +13,13 @@
 </p>
 
 ---
+<img align="right" src="https://media.giphy.com/media/L1R1TVr9WvYfLhfX7A/giphy.gif" width="200" />
 
-<h2 align="center">🌟 About Me</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1TVr9WvYfLhfX7A/giphy.gif" width="200" align="right" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=24&center=true&vCenter=true&width=700&lines=Hi!+I'm+Zeeshan+from+Bangladesh.;Southeast+University+CSE+Student.;Building+real+tools+using+AI.;Launching+digital+products+and+freelancing.;Focused+on+automation,+AI+and+business+growth.;Turning+ideas+into+impactful+solutions+🚀" />
-</p>
-
-<ul>
-  <li>🎓 <strong>Southeast University</strong> - Computer Science & Engineering (CSE) Student</li>
-  <li>🤖 Building real-world AI tools & SaaS projects</li>
-  <li>💻 Founder of <strong>DevToolboxHub</strong> & <strong>React Playground</strong></li>
-  <li>💼 Freelancing & product monetization enthusiast</li>
-  <li>🚀 Exploring automation, digital products & scalable business solutions</li>
-  <li>💡 Teaching AI & building educational tools for beginners</li>
-</ul>
-
+- 🎓 CSE Student  
+- 🤖 Building real-world tools using AI  
+- 🚀 Launching scalable digital products  
+- 💡 Exploring SaaS & automation systems  
+- 💼 Focused on business, growth & monetization
 
 ---
 
