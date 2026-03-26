@@ -56,24 +56,49 @@
 ## 🛠️ Tool Ecosystem
 
 <p align="center">
-  <a href="https://binary-converter-brown.vercel.app">
-    <img src="https://img.shields.io/badge/Binary%20Converter-Live-00F7FF?style=for-the-badge"/>
+  <!-- Color Craft Pro -->
+  <a href="https://color-craft-pro-theta.vercel.app">
+    <img src="https://img.shields.io/badge/🎨_Color_Craft_Pro-Live-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&animation=scale" alt="Color Craft Pro"/>
   </a>
 
+  <!-- QR Code Craft -->
+  <a href="https://qr-code-craft-three.vercel.app">
+    <img src="https://img.shields.io/badge/🔳_QR_Code_Craft-Live-purple?style=for-the-badge&logo=qr-code&logoColor=white&animation=scale" alt="QR Code Craft"/>
+  </a>
+
+  <!-- IP Geo Pro -->
   <a href="https://ip-geo-pro-amber.vercel.app">
-    <img src="https://img.shields.io/badge/IP%20Geo%20Pro-Live-green?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌍_IP_Geo_Pro-Live-green?style=for-the-badge&logo=google&logoColor=white&animation=scale" alt="IP Geo Pro"/>
   </a>
 
-  <a href="https://loan-emi-toolkit-chi.vercel.app">
-    <img src="https://img.shields.io/badge/Loan%20EMI%20Toolkit-Live-orange?style=for-the-badge"/>
-  </a>
-
-  <a href="https://time-zone-pro-kappa.vercel.app">
-    <img src="https://img.shields.io/badge/Time%20Zone%20Pro-Live-purple?style=for-the-badge"/>
-  </a>
-
+  <!-- JSON Pretty Pro -->
   <a href="https://json-pretty-pro-lemon.vercel.app">
-    <img src="https://img.shields.io/badge/JSON%20Pretty%20Pro-Live-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/📂_JSON_Pretty_Pro-Live-red?style=for-the-badge&logo=json&logoColor=white&animation=scale" alt="JSON Pretty Pro"/>
+  </a>
+
+  <!-- Binary Converter -->
+  <a href="https://binary-converter-brown.vercel.app">
+    <img src="https://img.shields.io/badge/🧮_Binary_Converter-Live-orange?style=for-the-badge&logo=javascript&logoColor=white&animation=scale" alt="Binary Converter"/>
+  </a>
+
+  <!-- Loan EMI Toolkit -->
+  <a href="https://loan-emi-toolkit-chi.vercel.app">
+    <img src="https://img.shields.io/badge/🏦_Loan_EMI_Toolkit-Live-yellow?style=for-the-badge&logo=bank&logoColor=white&animation=scale" alt="Loan EMI Toolkit"/>
+  </a>
+
+  <!-- Time Zone Pro -->
+  <a href="https://time-zone-pro-kappa.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Time_Zone_Pro-Live-purple?style=for-the-badge&logo=clock&logoColor=white&animation=scale" alt="Time Zone Pro"/>
+  </a>
+
+  <!-- Responsive Web Tester -->
+  <a href="https://responsive-web-tester-delta.vercel.app">
+    <img src="https://img.shields.io/badge/📱_Responsive_Web_Tester-Live-pink?style=for-the-badge&logo=google-chrome&logoColor=white&animation=scale" alt="Responsive Web Tester"/>
+  </a>
+
+  <!-- Quick Doc Scan -->
+  <a href="https://quick-doc-scan.vercel.app">
+    <img src="https://img.shields.io/badge/📄_Quick_Doc_Scan-Live-blueviolet?style=for-the-badge&logo=adobe&logoColor=white&animation=scale" alt="Quick Doc Scan"/>
   </a>
 </p>
 
