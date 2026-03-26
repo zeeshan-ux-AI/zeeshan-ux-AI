@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats (Live Animation)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshan-ux-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
