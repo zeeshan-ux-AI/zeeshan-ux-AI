@@ -11,12 +11,14 @@
 </p>
 
 ---
-
 ## 🌟 About Me
-<img align="right" src="https://media.giphy.com/media/L1R1TVr9WvYfLhfX7A/giphy.gif" width="200" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=24&center=true&vCenter=true&width=700&lines=Hi!+I'm+Zeeshan+from+Bangladesh.;Southeast+University+CSE+Student.;Building+real+tools+using+AI.;Launching+digital+products+and+freelancing.;Focused+on+automation,+AI+and+business+growth.;Turning+ideas+into+impactful+solutions+🚀" />
+  <img src="https://media.giphy.com/media/L1R1TVr9WvYfLhfX7A/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=28&center=true&vCenter=true&width=700&lines=Hi!+I'm+Zeeshan+from+Bangladesh.;Southeast+University+CSE+Student.;Building+real+tools+using+AI.;Launching+digital+products+and+freelancing.;Focused+on+automation,+AI+and+business+growth.;Turning+ideas+into+impactful+solutions+🚀" />
 </p>
 
 <ul>
