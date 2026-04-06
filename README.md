@@ -3,7 +3,7 @@
 <h3 align="center">🤖 AI Builder | 💻 Developer | 💼 Future Businessman</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Tools+Builder;React+Playground+Creator;DevToolboxHub+Founder;Building+Digital+Products+🚀;Turning+Ideas+Into+Business+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Tools+Builder;codeplayground.tools+Creator;DevToolboxHub+Founder;Building+Digital+Products+🚀;Turning+Ideas+Into+Business+💼" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <ul>
   <li>🎓 <strong>Southeast University</strong> - Computer Science & Engineering (CSE) Student</li>
   <li>🤖 Building real-world AI tools & SaaS projects</li>
-  <li>💻 Founder of <strong>DevToolboxHub</strong> & <strong>React Playground</strong></li>
+  <li>💻 Founder of <strong>DevToolboxHub</strong> & <strong><a href="https://www.codeplayground.tools/">Code Playground</a></strong></li>
   <li>💼 Freelancing & product monetization enthusiast</li>
   <li>🚀 Exploring automation, digital products & scalable business solutions</li>
   <li>💡 Teaching AI & building educational tools for beginners</li>
@@ -47,12 +47,12 @@
 
 ---
 
-### 💻 React Playground
+### 💻 Code Playground
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </p>
 
-✨ **Full browser IDE — Build & Export** 🔗 [Visit React Playground](https://code-playground-1x6w.vercel.app)  
+✨ **Full browser IDE — Build & Export** 🔗 [Visit Code Playground](https://www.codeplayground.tools/)  
 
 - 🧠 Code directly in browser  
 - ⚡ Live preview  
