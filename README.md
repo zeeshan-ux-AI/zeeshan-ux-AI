@@ -1,108 +1,71 @@
-<h1 align="center">Hi 👋, I'm Zeeshan</h1>
+<h1 align="center">Hi, I'm Zeeshan</h1>
 
-<h3 align="center">🤖 AI Builder | 💻 Developer | 💼 Future Businessman</h3>
+<h3 align="center">AI Builder | Developer | Future Businessman</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Tools+Builder;React+Playground+Creator;DevToolboxHub+Founder;Building+Digital+Products+🚀;Turning+Ideas+Into+Business+💼" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
 ---
-## 🌟 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1TVr9WvYfLhfX7A/giphy.gif" width="200" />
-</p>
+## About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=28&center=true&vCenter=true&width=700&lines=Hi!+I'm+Zeeshan+from+Bangladesh.;Southeast+University+CSE+Student.;Building+real+tools+using+AI.;Launching+digital+products+and+freelancing.;Focused+on+automation,+AI+and+business+growth.;Turning+ideas+into+impactful+solutions+🚀" />
-</p>
+I am a Computer Science & Engineering student at **Southeast University** in Bangladesh. My focus is on building practical AI tools, developing SaaS projects, and exploring how technology can be turned into sustainable businesses.
 
-<ul>
-  <li>🎓 <strong>Southeast University</strong> - Computer Science & Engineering (CSE) Student</li>
-  <li>🤖 Building real-world AI tools & SaaS projects</li>
-  <li>💻 Founder of <strong>DevToolboxHub</strong> & <strong>React Playground</strong></li>
-  <li>💼 Freelancing & product monetization enthusiast</li>
-  <li>🚀 Exploring automation, digital products & scalable business solutions</li>
-  <li>💡 Teaching AI & building educational tools for beginners</li>
-</ul>
+- Building real-world AI tools & SaaS projects
+- Founder of **DevToolboxHub** & **React Playground**
+- Freelancing and product monetization enthusiast
+- Exploring automation, digital products & scalable business solutions
+- Teaching AI and building educational tools for beginners
 
 ---
 
-## 🚀 Featured Projects (Animated Showcase)
+## Featured Projects
 
-### 🛠️ DevToolboxHub
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="500"/>
-</p>
+### DevToolboxHub
 
-✨ **50+ essential tools in ONE place** 🔗 [Visit DevToolboxHub](https://dev-toolbox-hub-9aej.vercel.app)  
+A collection of 50+ essential developer tools in one lightweight web application.
 
-- ⚡ Fast & lightweight  
-- 🧰 All-in-one dev tools  
-- 🌐 Built for productivity  
+[Visit DevToolboxHub](https://dev-toolbox-hub-9aej.vercel.app)
 
----
-
-### 💻 React Playground
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
-</p>
-
-✨ **Full browser IDE — Build & Export** 🔗 [Visit React Playground](https://code-playground-1x6w.vercel.app)  
-
-- 🧠 Code directly in browser  
-- ⚡ Live preview  
-- 📦 Export full project  
+- Fast and lightweight
+- All-in-one developer toolkit
+- Built for productivity
 
 ---
 
-## 🛠️ Tool Ecosystem (Animated Badges)
+### React Playground
 
-<p align="center">
-  <a href="https://color-craft-pro-theta.vercel.app">
-    <img src="https://img.shields.io/badge/🎨_Color_Craft_Pro-Live-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&animation=scale" alt="Color Craft Pro"/>
-  </a>
+A browser-based IDE that allows you to code React components, preview them live, and export your full project.
 
-  <a href="https://qr-code-craft-three.vercel.app">
-    <img src="https://img.shields.io/badge/🔳_QR_Code_Craft-Live-purple?style=for-the-badge&logo=qr-code&logoColor=white&animation=scale" alt="QR Code Craft"/>
-  </a>
+[Visit React Playground](https://code-playground-1x6w.vercel.app)
 
-  <a href="https://ip-geo-pro-amber.vercel.app">
-    <img src="https://img.shields.io/badge/🌍_IP_Geo_Pro-Live-green?style=for-the-badge&logo=google&logoColor=white&animation=scale" alt="IP Geo Pro"/>
-  </a>
-
-  <a href="https://json-pretty-pro-lemon.vercel.app">
-    <img src="https://img.shields.io/badge/📂_JSON_Pretty_Pro-Live-red?style=for-the-badge&logo=json&logoColor=white&animation=scale" alt="JSON Pretty Pro"/>
-  </a>
-
-  <a href="https://binary-converter-brown.vercel.app">
-    <img src="https://img.shields.io/badge/🧮_Binary_Converter-Live-orange?style=for-the-badge&logo=javascript&logoColor=white&animation=scale" alt="Binary Converter"/>
-  </a>
-
-  <a href="https://loan-emi-toolkit-chi.vercel.app">
-    <img src="https://img.shields.io/badge/🏦_Loan_EMI_Toolkit-Live-yellow?style=for-the-badge&logo=bank&logoColor=white&animation=scale" alt="Loan EMI Toolkit"/>
-  </a>
-
-  <a href="https://time-zone-pro-kappa.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Time_Zone_Pro-Live-purple?style=for-the-badge&logo=clock&logoColor=white&animation=scale" alt="Time Zone Pro"/>
-  </a>
-
-  <a href="https://responsive-web-tester-delta.vercel.app">
-    <img src="https://img.shields.io/badge/📱_Responsive_Web_Tester-Live-pink?style=for-the-badge&logo=google-chrome&logoColor=white&animation=scale" alt="Responsive Web Tester"/>
-  </a>
-
-  <a href="https://quick-doc-scan.vercel.app">
-    <img src="https://img.shields.io/badge/📄_Quick_Doc_Scan-Live-blueviolet?style=for-the-badge&logo=adobe&logoColor=white&animation=scale" alt="Quick Doc Scan"/>
-  </a>
-</p>
+- Code directly in the browser
+- Live preview
+- Export the complete project
 
 ---
 
-## ⚡ Tech Stack & Skills
+## Tool Ecosystem
+
+A set of specialized tools for common development tasks:
+
+| Tool | Description |
+|------|-------------|
+| [Color Craft Pro](https://color-craft-pro-theta.vercel.app) | Color palette generator and manager |
+| [QR Code Craft](https://qr-code-craft-three.vercel.app) | Custom QR code generator |
+| [IP Geo Pro](https://ip-geo-pro-amber.vercel.app) | IP address geolocation tool |
+| [JSON Pretty Pro](https://json-pretty-pro-lemon.vercel.app) | JSON formatter and validator |
+| [Binary Converter](https://binary-converter-brown.vercel.app) | Number system converter |
+| [Loan EMI Toolkit](https://loan-emi-toolkit-chi.vercel.app) | Loan EMI calculator |
+| [Time Zone Pro](https://time-zone-pro-kappa.vercel.app) | World time zone converter |
+| [Responsive Web Tester](https://responsive-web-tester-delta.vercel.app) | Mobile responsive testing tool |
+| [Quick Doc Scan](https://quick-doc-scan.vercel.app) | Document scanning utility |
+
+---
+
+## Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,tailwind,nodejs,mongodb,figma" />
@@ -111,7 +74,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshan-ux-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
@@ -120,33 +83,24 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🧠 Mindset & Goals
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&width=600&lines=I+build+with+AI;I+teach+AI;I+turn+ideas+into+business+💼;Future+is+AI+🚀" />
-</p>
+## Goals and Focus
+
+- Build with AI
+- Teach AI concepts
+- Turn ideas into business opportunities
 
 ---
 
-## 📬 Let's Connect
-<p align="center">
-  <a href="mailto:zeeshan9or@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/zeeshan-ux-ai">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://x.com/zeeshan9or">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter"/>
-  </a>
-</p>
+## Contact
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshan-ux-ai&label=Visitors&color=blueviolet&style=for-the-badge" />
-</p>
+- **Email**: [zeeshan9or@gmail.com](mailto:zeeshan9or@gmail.com)
+- **GitHub**: [github.com/zeeshan-ux-ai](https://github.com/zeeshan-ux-ai)
+- **X (Twitter)**: [@zeeshan9or](https://x.com/zeeshan9or)
