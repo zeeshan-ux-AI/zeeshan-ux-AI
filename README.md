@@ -46,24 +46,6 @@ A browser-based IDE that allows you to code React components, preview them live,
 
 ---
 
-## Tool Ecosystem
-
-A set of specialized tools for common development tasks:
-
-| Tool | Description |
-|------|-------------|
-| [Color Craft Pro](https://color-craft-pro-theta.vercel.app) | Color palette generator and manager |
-| [QR Code Craft](https://qr-code-craft-three.vercel.app) | Custom QR code generator |
-| [IP Geo Pro](https://ip-geo-pro-amber.vercel.app) | IP address geolocation tool |
-| [JSON Pretty Pro](https://json-pretty-pro-lemon.vercel.app) | JSON formatter and validator |
-| [Binary Converter](https://binary-converter-brown.vercel.app) | Number system converter |
-| [Loan EMI Toolkit](https://loan-emi-toolkit-chi.vercel.app) | Loan EMI calculator |
-| [Time Zone Pro](https://time-zone-pro-kappa.vercel.app) | World time zone converter |
-| [Responsive Web Tester](https://responsive-web-tester-delta.vercel.app) | Mobile responsive testing tool |
-| [Quick Doc Scan](https://quick-doc-scan.vercel.app) | Document scanning utility |
-
----
-
 ## Tech Stack
 
 <p align="center">
